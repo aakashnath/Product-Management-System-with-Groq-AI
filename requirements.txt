@@ -1,0 +1,6 @@
+groq
+python-dotenv
+notebook
+pandas
+openai
+google-genai
