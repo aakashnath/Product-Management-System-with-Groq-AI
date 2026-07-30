@@ -116,9 +116,8 @@ python gui.py
 B.Tech in Information Technology  
 Government College of Engineering and Leather Technology (GCELT)
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/aakashnath
+LinkedIn: linkedin.com/in/aakashnath2003
 
 ---
 
