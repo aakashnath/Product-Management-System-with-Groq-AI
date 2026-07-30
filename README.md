@@ -117,7 +117,8 @@ B.Tech in Information Technology
 Government College of Engineering and Leather Technology (GCELT)
 
 GitHub: https://github.com/aakashnath
-LinkedIn: linkedin.com/in/aakashnath2003
+
+LinkedIn: https://linkedin.com/in/aakashnath2003
 
 ---
 
