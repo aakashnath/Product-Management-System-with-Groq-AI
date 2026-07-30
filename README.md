@@ -89,7 +89,7 @@ python gui.py
 
 ### 🏠 Home Page
 
-![Home Page](./screenshots/home-page.png)
+![Home Page](./screenshots/dashboard.png)
 
 ---
 
