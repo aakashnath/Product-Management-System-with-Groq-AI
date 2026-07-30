@@ -89,25 +89,25 @@ python gui.py
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](./screenshots/home-page.png)
 
 ---
 
 ### ➕ Add & Search Product
 
-![Add Search](screenshots/add-search-products.png)
+![Add Search](./screenshots/add-search-products.png)
 
 ---
 
 ### ✏️ Update & Delete Product
 
-![Update Delete](screenshots/update-delete-products.png)
+![Update Delete](./screenshots/update-delete-products.png)
 
 ---
 
 ### 🤖 AI Product Assistant
 
-![AI Assistant](screenshots/ai-assistant.png)
+![AI Assistant](./screenshots/ai-assistant.png)
 
 ## 📸 Application Workflow
 
